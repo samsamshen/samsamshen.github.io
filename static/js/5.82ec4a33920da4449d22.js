@@ -1,0 +1,2 @@
+webpackJsonp([5],{Ds2I:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("\n  分类\n")])},staticRenderFns:[]};var u=t("VU/8")({name:"name",data:function(){return{}}},r,!1,function(e){t("TFvQ")},null,null);n.default=u.exports},TFvQ:function(e,n){}});
+//# sourceMappingURL=5.82ec4a33920da4449d22.js.map
